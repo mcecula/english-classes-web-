@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  padding-bottom: 200px;
+}
+
+body {
+  background-image: url('./img/english-school.avif');
+  background-size: cover;
+}
+
+img {
+  margin-right: 90%;
+  transform: rotate(320deg);
+  width: 20%;
+  height: 20%;
+}
